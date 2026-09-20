@@ -1,0 +1,1 @@
+All theorems proved by `decide` — no axioms beyond Lean defaults.
